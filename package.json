@@ -73,7 +73,7 @@
     "react-native-reanimated": "1.13.1",
     "semantic-release": "17.3.1",
     "tsdx": "0.14.0",
-    "tslib": "2.0.1",
+    "tslib": "2.1.0",
     "typescript": "3.9.7"
   }
 }
